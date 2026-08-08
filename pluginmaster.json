@@ -21,7 +21,7 @@
     "LoadPriority": 0,
     "Punchline": "Live AI translation of cutscene and NPC dialogue, overlaid on the original text.",
     "AcceptsFeedback": true,
-    "IconUrl": "https://raw.githubusercontent.com/porys/xivplugins/main/icon.png",
+    "IconUrl": "https://porys.github.io/xivplugins/icon.png",
     "DownloadLinkInstall": "https://github.com/porys/TomestoneTranslate/releases/latest/download/Tomestone.Translate.zip",
     "DownloadLinkTesting": "",
     "DownloadLinkUpdate": "https://github.com/porys/TomestoneTranslate/releases/latest/download/Tomestone.Translate.zip",
